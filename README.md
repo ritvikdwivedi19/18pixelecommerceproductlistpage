@@ -22,7 +22,7 @@ This project is an interactive e-commerce product listing page built with HTML, 
 - `script.js`: The JavaScript file for functionality.
 - `products.json`: The JSON file containing product data.
 
-Direct Link - https://ritvikdwivedi19.github.io/18pixelecommerceproductlistpage/ 
+Direct Link - https://ritvikdwivedi19.github.io/18pixelecommerceproductlistpage/  and by clicking the company icon you can also visited our company's website.
 
 ## Usage
 
