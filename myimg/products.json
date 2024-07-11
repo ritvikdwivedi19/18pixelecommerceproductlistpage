@@ -1,0 +1,147 @@
+[
+  {
+    "id": 1,
+    "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    "category": "women",
+    "image": "./myimg/product_1.png",
+    "new_price": 50.0,
+    "old_price": 80.5,
+    "description": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse"
+  },
+  {
+    "id": 2,
+    "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    "category": "women",
+    "image":"./myimg/product_2.png",
+    "new_price": 85.0,
+    "old_price": 120.5,
+    "description": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse"
+  },
+  {
+    "id": 3,
+    "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    "category": "women",
+    "image":"./myimg/product_3.png",
+    "new_price": 60.0,
+    "old_price": 100.5,
+    "description": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse"
+  },
+  {
+    "id": 4,
+    "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    "category": "women",
+    "image": "./myimg/product_4.png",
+    "new_price": 100.0,
+    "old_price": 150.0,
+    "description": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse"
+  },
+  {
+    "id": 5,
+    "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    "category": "women",
+    "image": "./myimg/product_5.png",
+    "new_price": 85.0,
+    "old_price": 120.5,
+    "description": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse"
+  },
+  {
+    "id": 6,
+    "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    "category": "women",
+    "image": "./myimg/product_6.png",
+    "new_price": 85.0,
+    "old_price": 120.5,
+    "description": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse"
+  },
+  {
+    "id": 7,
+    "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    "category": "women",
+    "image": "./myimg/product_7.png",
+    "new_price": 85.0,
+    "old_price": 120.5,
+    "description": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse"
+  },
+  {
+    "id": 8,
+    "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    "category": "women",
+    "image": "./myimg/product_8.png",
+    "new_price": 85.0,
+    "old_price": 120.5,
+    "description": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse"
+  },
+  {
+    "id": 9,
+    "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    "category": "women",
+    "image": "./myimg/product_9.png",
+    "new_price": 85.0,
+    "old_price": 120.5,
+    "description": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse"
+  },
+  {
+    "id": 10,
+    "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    "category": "women",
+    "image": "./myimg/product_10.png",
+    "new_price": 85.0,
+    "old_price": 120.5,
+    "description": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse"
+  },
+  {
+    "id": 11,
+    "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    "category": "women",
+    "image": "./myimg/product_11.png",
+    "new_price": 85.0,
+    "old_price": 120.5,
+    "description": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse"
+  },
+  {
+    "id": 12,
+    "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    "category": "women",
+    "image": "./myimg/product_12.png",
+    "new_price": 85.0,
+    "old_price": 120.5,
+    "description": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse"
+  },
+  {
+    "id": 13,
+    "name": "Men Green Sol Zippered Full-Zip Slim Fit Bomber Jacket",
+    "category": "men",
+    "image": "./myimg/product_13.png",
+    "new_price": 85.0,
+    "old_price": 120.5,
+    "description": "Men Green Sol Zippered Full-Zip Slim Fit Bomber Jacket Men Green Sol Zippered Full-Zip Slim Fit Bomber Jacket"
+  },
+  {
+    "id": 14,
+    "name": "Men Green Sol Zippered Full-Zip Slim Fit Bomber Jacket",
+    "category": "men",
+    "image": "./myimg/product_14.png",
+    "new_price": 85.0,
+    "old_price": 120.5,
+    "description": "Men Green Sol Zippered Full-Zip Slim Fit Bomber Jacket Men Green Sol Zippered Full-Zip Slim Fit Bomber Jacket"
+  },
+  {
+    "id": 15,
+    "name": "Men Green Sol Zippered Full-Zip Slim Fit Bomber Jacket",
+    "category": "men",
+    "image": "./myimg/product_15.png",
+    "new_price": 85.0,
+    "old_price": 120.5,
+    "description": "Men Green Sol Zippered Full-Zip Slim Fit Bomber Jacket Men Green Sol Zippered Full-Zip Slim Fit Bomber Jacket"
+  },
+  {
+    "id": 16,
+    "name": "Men Green Sol Zippered Full-Zip Slim Fit Bomber Jacket",
+    "category": "men",
+    "image": "./myimg/product_16.png",
+    "new_price": 85.0,
+    "old_price": 120.5,
+    "description": "Men Green Sol Zippered Full-Zip Slim Fit Bomber Jacket Men Green Sol Zippered Full-Zip Slim Fit Bomber Jacket"
+  }
+]
+
